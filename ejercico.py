@@ -3,7 +3,7 @@ ventas = {
    "Ana": [22000, 30000],
    "Luis": [10000, 12000, 15000] 
 }
-encendido = True-
+encendido = True
 while encendido:
     print("--- MENÚ DE VENTAS ---")
     print("1. Registrar venta")
